@@ -7,7 +7,7 @@ M.Sidenav.init(sideNav);
 //     $('.sidenav').sidenav();
 //   });
 
-// akhir side nav bar
+// Akhir Side Nav Bar
 
 
 // Slider
@@ -22,8 +22,16 @@ M.Slider.init(slider,{
 
 // Akhir Slider
 
-// client
+// Client
 const parallax = document.querySelectorAll('.parallax');
 M.Parallax.init(parallax);
-// akhir client
+// Akhir Client
 
+// Portofolio
+const materialBox = document.querySelectorAll('.materialboxed');
+M.Materialbox.init(materialBox);
+// Akhir Portofolio
+
+// input field
+const selectForm = document.querySelectorAll('Select');
+M.FormSelect.init(selectForm);
