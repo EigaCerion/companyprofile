@@ -1,4 +1,7 @@
 # companyprofile
+
+ https://eigacerion.github.io/companyprofile/
+
 this is a campus project for tim sukses
 
 tugas 
